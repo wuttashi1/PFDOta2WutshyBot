@@ -2,27 +2,27 @@
 
 # DotaRent Pro · Specification
 
-Техническая спецификация автоматизации аренды Dota 2 на FunPay с управлением через Telegram. Стадия проектирования.
+Planning repository for Dota 2 rental automation on FunPay with a Telegram administration interface.
 
-[Правила разработки](CONTRIBUTING.md) · [Ветки](https://github.com/wuttashi1/PFDOta2WutshyBot/branches)
+[Contributing](CONTRIBUTING.md) · [Branches](https://github.com/wuttashi1/PFDOta2WutshyBot/branches)
 
 </div>
 
 ---
 
-## Статус
+## Project status
 
-Репозиторий содержит техническое задание в `instructions.txt`. Реализация приложения в основной ветке пока отсутствует.
+This repository currently contains a technical specification in `instructions.txt`. Application code has not been implemented on the default branch.
 
-## Запланировано
+## Planned scope
 
-- Учёт аккаунтов и аренды.
-- Управление через Telegram.
-- Интеграции с FunPay и Steam.
-- Отчётность и развёртывание в Docker.
+- Account inventory and rental tracking.
+- Telegram administration.
+- FunPay and Steam integrations.
+- Reporting and Docker deployment.
 
-Это план разработки, а не перечень готовых функций. Инструкций запуска пока нет.
+These are planned capabilities, not completed features. There are no application startup instructions yet.
 
-## Разработка
+## Development
 
-Соглашения по веткам и изменениям: [CONTRIBUTING.md](CONTRIBUTING.md).
+See [CONTRIBUTING.md](CONTRIBUTING.md) for branch and contribution guidelines.
